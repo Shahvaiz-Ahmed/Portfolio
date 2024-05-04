@@ -1,0 +1,373 @@
+{
+  "heroData": {
+    "bgImgLink": "/images/background/hero-bg.jpg",
+    "imgLink": "/images/section/myimg.jpg",
+    "title": "Shahvaiz <br /> Ahmed",
+    "subTitle": "Hello, I’m",
+    "designation": "Full-Stack Developer"
+  },
+  "aboutData": {
+    "imgLink": "/images/section/About.PNG",
+    "cvPdf": "/images/Resume.pdf",
+    "title": "Hi There! I'm Shahvaiz Ahmed",
+    "subtitle": "Full-Stack Developer",
+    "text": "I am a proficient Full Stack Web Developer specializing in Django Python and React JS. My expertise lies in crafting dynamic and responsive web applications. I am dedicated to designing and developing seamless user experiences, from the back-end logic to the front-end interactivity. With a passion for clean code and innovative solutions, I strive to create impactful online experiences that engage, inspire, and leave a lasting impression.",
+    "details": [
+      {
+        "title": "Birthday",
+        "info": "February 05, 2003"
+      },
+      {
+        "title": "Phone",
+        "info": "+92 322-354-5701"
+      },
+      {
+        "title": "Email",
+        "info": "shahvaiz123satti@gmail.com"
+      },
+      {
+        "title": "From",
+        "info": "Rawalpindi, Pakistan"
+      },
+      {
+        "title": "Language",
+        "info": "English, Urdu"
+      },
+      {
+        "title": "Developer",
+        "info": "Available"
+      },
+      {
+        "title": "Freelance",
+        "info": "Available"
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "/images/icon/frontend.svg",
+        "title": "Frontend Development",
+        "text": "I specialize in crafting immersive digital experiences through frontend web development. With a keen eye for design and expertise in HTML, CSS, and JavaScript, I bring websites to life by seamlessly blending aesthetics and functionality.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/icon/backend.svg",
+        "title": "Backend Development",
+        "text": "I specialize in backend web development, crafting the unseen systems that power websites and applications. From designing databases to handling server logic, I ensure seamless functionality and robust performance to create exceptional user experiences.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/icon/reactjs.svg",
+        "title": "React Js Development",
+        "text": "I specialize in React.js development, crafting interactive and dynamic user interfaces. With a strong foundation in JavaScript and modern web technologies, I create seamless user experiences that bring ideas to life.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/icon/python.png",
+        "title": "Python Django Development",
+        "text": "I specialize in Python Django development, crafting robust web solutions with elegant code architecture. From building dynamic backends to ensuring seamless integration, I thrive in creating tailored experiences that meet both functional and aesthetic demands.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/icon/full-stack.png",
+        "title": "FullStack Development",
+        "text": "I specialize in FullStack Web development, seamlessly bridging the gap between front-end and back-end. Crafting interactive user experiences on the surface while optimizing performance and functionality underneath is where my expertise truly shines.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/icon/api.svg",
+        "title": "APIs",
+        "text": "I specialize in crafting robust APIs that seamlessly connect and communicate between different software applications. With a deep understanding of various programming languages and frameworks, I ensure efficient data exchange and integration, driving enhanced user experiences and system interoperability.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "All the skills that I have in that field of work are mentioned.",
+    "text": "My skill set includes a strong command of HTML, CSS/Bootstrap/MUI, JavaScript, React JS, Python, and Django/Django Rest Framework, enabling me to create exceptional web experiences with precision and efficiency.",
+    "skills": [
+      {
+        "title": "HTML",
+        "progress": "95%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "CSS/Bootstrap/MUI",
+        "progress": "95%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "Javascript",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "React Js",
+        "progress": "85%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "Python",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "title": "Django/Django Rest Framework",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "/images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+        "title": "E-Comerce",
+        "subTitle": "Integrated with Microsoft Business Central Dynamics 365",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      }
+    ]
+  },
+  "blogData": {
+    "useFor": "blog",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "/images/blog/blog1.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog2.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog3.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "Trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog1.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog2.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "The latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog3.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      }
+    ]
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "/images/client/client1.png",
+        "title": "Richard Miles",
+        "designation": "Chairman",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "/images/client/client2.png",
+        "title": "Vesta Shufelt",
+        "designation": "Executive Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "/images/client/client3.png",
+        "title": "Joseph Alves",
+        "designation": "Managing Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "/images/client/client1.png",
+        "title": "Richard Miles",
+        "designation": "Chairman",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "/images/client/client2.png",
+        "title": "Vesta Shufelt",
+        "designation": "Executive Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "/images/client/client3.png",
+        "title": "Joseph Alves",
+        "designation": "Managing Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      }
+    ]
+  },
+  "resumeData": {
+    "experienceTitle": "Experience",
+    "experience": [
+      {
+        "title": "FullStack Developer",
+        "duration": "Feb 2023 - Present",
+        "subTitle": "TMRC",
+        "text": "I'm working as a Full-Stack Developer(Python Django & React Js) at TMRC since February 2023."
+      },
+      {
+        "title": "Web Developer",
+        "duration": "Jan 2022 - Jan 2023",
+        "subTitle": "Freelancing",
+        "text": "I operate as a Freelancer on various platforms, including Fiverr, Upwork, and Freelancer.com, specializing in WordPress and Frontend Development."
+      },
+      {
+        "title": "Backend Developer",
+        "duration": "Sep 2020 - December 2021",
+        "subTitle": "Apna Developer",
+        "text": "I successfully concluded my inaugural remote internship as a Python Django Developer."
+      }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "title": "Bachelor in Software Engineering",
+        "duration": "2020 - 2024",
+        "subTitle": "PMAS Arid, UIIT, Rwp.",
+        "text": "I'm currently doing BSSE from UIIT Department at PMAS University."
+      },
+      {
+        "title": "Intermediate",
+        "duration": "2018 - 2020",
+        "subTitle": "FBISE",
+        "text": "I do my Pre-Engineering from Federal Board of Intermediate and Secondary Education."
+      },
+      {
+        "title": "Matriculation",
+        "duration": "2016 - 2018",
+        "subTitle": "FBISE",
+        "text": "I have completed my SSC from Federal Board of Intermediate and Secondary Education."
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Just say Hello",
+    "title": "Contact Info",
+    "subTitle": "Visite my social profile and get connected",
+    "text": " "
+  },
+  "socialData": [
+    {
+      "icon": "twitter",
+      "title": "Twitter",
+      "link": "/"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/shahvaiz-ahmed-bb182b235/"
+    }
+  ]
+}
