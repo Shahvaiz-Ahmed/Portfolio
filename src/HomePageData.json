@@ -1,7 +1,7 @@
 {
   "heroData": {
     "bgImgLink": "/images/background/hero-bg.jpg",
-    "imgLink": "/images/section/myimg.jpg",
+    "imgLink": "/images/section/myimg.png",
     "title": "Shahvaiz <br /> Ahmed",
     "subTitle": "Hello, I’m",
     "designation": "Full-Stack Developer"
@@ -19,7 +19,7 @@
       },
       {
         "title": "Phone",
-        "info": "+92 322-354-5701"
+        "info": "+92 315-521-5889"
       },
       {
         "title": "Email",
@@ -155,19 +155,19 @@
         "delay": "200"
       },
       {
-        "imgLink": "/images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "imgLink": "/images/portfolio/portfolio2.png",
+        "imgLinkLg": "/images/portfolio/portfolio2_lg.png",
+        "title": "Ukraine Risk Map",
+        "subTitle": "A one-page solution for showing the risk map of the current war situation in Ukraine. The product was demanded by Inherent Risks. Google map APIs are used to show the war zone via drawing a KML layer over the map. The search function is also designed for the user to search for his desired area and he can then check the risk ratio of that area.",
         "effect": "fade-up",
         "duration": "500",
         "delay": "300"
       },
       {
-        "imgLink": "/images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "imgLink": "/images/portfolio/portfolio3.PNG",
+        "imgLinkLg": "/images/portfolio/portfolio3_lg.PNG",
+        "title": "Database Design",
+        "subTitle": "Complex Database Design For ERP.",
         "effect": "fade-up",
         "duration": "500",
         "delay": "400"
