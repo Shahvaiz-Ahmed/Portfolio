@@ -54,7 +54,7 @@ const Hero = ({ data, socialData }) => {
         </div>
       </div>
       <div className="st-hero-img st-to-right">
-        <img className="" src={`${imgLink}`} alt="Hero" />
+        <img className="" id='myimage' src={`${imgLink}`} alt="Hero" />
         <div className="st-social-group">
           <SocialLinks data={socialData} />
         </div>

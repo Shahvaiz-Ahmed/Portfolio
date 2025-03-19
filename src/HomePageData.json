@@ -7,16 +7,12 @@
     "designation": "Full-Stack Developer"
   },
   "aboutData": {
-    "imgLink": "/images/section/About.PNG",
+    "imgLink": "/images/section/About.png",
     "cvPdf": "/images/Resume.pdf",
     "title": "Hi There! I'm Shahvaiz Ahmed",
     "subtitle": "Full-Stack Developer",
     "text": "I am a proficient Full Stack Web Developer specializing in Django Python and React JS. My expertise lies in crafting dynamic and responsive web applications. I am dedicated to designing and developing seamless user experiences, from the back-end logic to the front-end interactivity. With a passion for clean code and innovative solutions, I strive to create impactful online experiences that engage, inspire, and leave a lasting impression.",
     "details": [
-      {
-        "title": "Birthday",
-        "info": "February 05, 2003"
-      },
       {
         "title": "Phone",
         "info": "+92 315-521-5889"

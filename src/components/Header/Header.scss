@@ -1,5 +1,11 @@
 @import "../../sass/default/variable.scss";
 
+#hero img{
+  margin-top: 8px;
+  // border-radius: 50%;
+}
+
+
 .st-site-header.st-style1 {
   background-color: rgba($dark-color2, 0.9);
   box-shadow: 0 10px 10px -10px rgba($dark-color2, 0.1);
